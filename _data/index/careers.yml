@@ -1,0 +1,57 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: University College Dublin
+    i18n: company_a
+  desc:
+    detail: Dynamic performance testing  
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2018
+    i18n: company_a_date
+  job:
+    detail: Research Student
+    i18n: company_a_job
+  icon: fa-university
+
+- name:
+    detail: Intel
+    i18n: company_b
+  desc:
+    detail: Server platform testing, Automation, Video Transcoding 
+    i18n: company_b_desc
+  date:
+    detail: Nov. 2014
+    i18n: company_b_date
+  job:
+    detail: System Validation Engineer
+    i18n: company_b_job
+  icon: fa-server
+
+- name:
+    detail: IBM
+    i18n: company_b
+  desc:
+    detail: Full stack developer, Storage Technology Group 
+    i18n: company_b_desc
+  date:
+    detail: June. 2010
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-desktop
+
+- name:
+    detail: Universidad de las Americas Puebla
+    i18n: company_b
+  desc:
+    detail: GPA 95/100 – Cum Laude academic honor graduate 
+    i18n: company_b_desc
+  date:
+    detail: Dec. 2010
+    i18n: company_b_date
+  job:
+    detail: BSc in Computer Systems Engineering 
+    i18n: company_b_job
+  icon: fa-graduation-cap

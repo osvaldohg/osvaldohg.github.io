@@ -1,0 +1,28 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Vozze
+  gh_user: osvaldohg 
+  url: https://www.youtube.com/watch?v=ryeA2oGTfm4
+  repo: 
+  img: /static/assets/img/landing/vozze.png
+  desc: Voice recognition and Multitouch interface for innovation.
+
+- name: Multapp
+  i18n: 
+  gh_user:
+  url: https://www.youtube.com/watch?v=prT-LHgWZIo 
+  img: /static/assets/img/landing/multapp.png
+  desc: Android app to check car fines in GDL.
+
+- name: Coinz
+  i18n: 
+  url: https://github.com/osvaldohg/coinz
+  img: /static/assets/img/landing/coinz.jpg
+  desc: Script to notify changes in crypto currency using Bitso API.
+
+- name: Boletoz
+  i18n: 
+  url: http://django-env.atva3gp2e2.us-east-2.elasticbeanstalk.com/boletos/
+  img: /static/assets/img/landing/rifa.jpg
+  desc: Web app to rank raffle tickets based on a previous data analysis.

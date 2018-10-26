@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Java, Python, bash, selenium, JMeter, Django, AWS, GitHub
+percentage: 100, 90, 90, 80, 80, 60, 50, 100
